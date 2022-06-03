@@ -3,3 +3,5 @@ versao2
 versao3
 versao4
 versao5
+versao6
+simulando conflito
